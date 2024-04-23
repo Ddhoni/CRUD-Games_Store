@@ -1,6 +1,6 @@
 # CRUD-Games_Store---DTI-DS-Purwadhika
 
-This repository houses the project "CRUD Games_Store" developed by the Data Science program at Purwadhika Digital Technology Incubator (DTI). The project is a Graphical User Interface (GUI) application for managing a game store, allowing users to perform CRUD (Create, Read, Update, Delete) operations on game entries.
+This repository houses the project "CRUD Games_Store" developed for the Module 1 Capstone project in Data Science program at Purwadhika Digital Technology Incubator (DTI). The project is a Graphical User Interface (GUI) application for managing a game store, allowing users to perform CRUD (Create, Read, Update, Delete) operations on game entries.
 
 ## Key Features:
 
@@ -20,7 +20,7 @@ This repository houses the project "CRUD Games_Store" developed by the Data Scie
 
 ## Built With :
 - Python
-- Tkinter library
+- Tkinter library 
 
 ## Installation
 clone this repo on :
