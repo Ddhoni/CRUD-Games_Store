@@ -473,5 +473,5 @@ new_stock_entry.grid(row=0, column=1, padx=2, pady=1)
 update_stock_button = ttk.Button(update_stock_frame, text="Update Stock", command=update_stock)
 update_stock_button.grid(row=1, column=0, columnspan=2, padx=2, pady=5)
 
-
+# This line starts the Tkinter event loop, which is necessary for running the GUI application.
 root.mainloop()
