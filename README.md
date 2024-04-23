@@ -23,6 +23,6 @@ This repository houses the project "CRUD Games_Store" developed for the Module 1
 - Tkinter library 
 
 ## Installation
-clone this repo on :
+Clone this repo on :
 ```bash
 git clone https://github.com/Ddhoni/CRUD-Games_Store---DTI-DS-Purwadhika.git
