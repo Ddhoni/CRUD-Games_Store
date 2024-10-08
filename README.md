@@ -1,6 +1,6 @@
-# CRUD-Games_Store---DTI-DS-Purwadhika
+# CRUD-Games_Store
 
-This repository houses the project "CRUD Games_Store" developed for the Module 1 Capstone project in Data Science program at Purwadhika Digital Technology Incubator (DTI). The project is a Graphical User Interface (GUI) application for managing a game store, allowing users to perform CRUD (Create, Read, Update, Delete) operations on game entries.
+This repository houses the project "CRUD Games_Store". The project is a Graphical User Interface (GUI) application for managing a game store, allowing users to perform CRUD (Create, Read, Update, Delete) operations on game entries.
 
 ## Key Features:
 
